@@ -13,3 +13,8 @@ Quick summary of what happened:<br>
 <b>What's next?</b>
 
 I've got another project I'm working on called <b>OnlyJump</b>-it's going to hit the application market hard when everything is compelete.
+
+
+<hr>
+
+Oh, and I'm NOT releasing the database files soley because I'd like to keep that as my *evidence* of my hard work-hard to explain how it proves much, but it does!
